@@ -1,6 +1,6 @@
 # Анализ оттока клиентов (привлечение)
 
-
+[ipynb](https://github.com/NataZakharova/portfolio/blob/main/Metprombank/metprombank_portfolio.ipynb)
 
 ## Описание проекта
 
