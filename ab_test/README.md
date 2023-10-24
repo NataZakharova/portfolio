@@ -1,6 +1,6 @@
 # А/В тестирование
 
-[ipynb](https://github.com/NataZakharova/portfolio/blob/main/Metprombank/metprombank_portfolio.ipynb)
+[ipynb](https://github.com/NataZakharova/portfolio/blob/main/ab_test/ab_test_portfolio.ipynb)
 
 ## Описание проекта
 
