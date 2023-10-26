@@ -1,4 +1,4 @@
-# А/В тестирование
+# SQL
 
 [ipynb](https://github.com/NataZakharova/portfolio/blob/main/sql/sql_portfolio.ipynb)
 
